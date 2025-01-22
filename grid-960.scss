@@ -1,0 +1,17 @@
+@use "~@bu0nq/asset-scss-function/function";
+
+$column-size: 80px !default;
+$gutter-size: 20px !default;
+
+$grid-01: function.getGridColumnSize($column-size, $gutter-size, 1);
+$grid-02: function.getGridColumnSize($column-size, $gutter-size, 2);
+$grid-03: function.getGridColumnSize($column-size, $gutter-size, 3);
+$grid-04: function.getGridColumnSize($column-size, $gutter-size, 4);
+$grid-05: function.getGridColumnSize($column-size, $gutter-size, 5);
+$grid-06: function.getGridColumnSize($column-size, $gutter-size, 6);
+$grid-07: function.getGridColumnSize($column-size, $gutter-size, 7);
+$grid-08: function.getGridColumnSize($column-size, $gutter-size, 8);
+$grid-09: function.getGridColumnSize($column-size, $gutter-size, 9);
+$grid-10: function.getGridColumnSize($column-size, $gutter-size, 10);
+$grid-11: function.getGridColumnSize($column-size, $gutter-size, 11);
+$grid-12: function.getGridColumnSize($column-size, $gutter-size, 12);
