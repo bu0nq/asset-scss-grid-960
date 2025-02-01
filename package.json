@@ -1,6 +1,6 @@
 {
   "name": "@bu0nq/asset-scss-grid-960",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Package for integrating Asset SCSS Grid 960",
   "files": [
     "./**/*.scss"
@@ -11,7 +11,7 @@
     "grid"
   ],
   "dependencies": {
-    "@bu0nq/asset-scss-function": "^0.2.0"
+    "@bu0nq/asset-scss-grid": "^0.3.1"
   },
   "author": {
     "name": "bu0nq",
